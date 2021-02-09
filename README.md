@@ -77,7 +77,8 @@ You can have the csv files at whatever location you prefer, but, to ease the pro
 Location of input folder shipped with this solution is
  ```sh
     $ <your_solution_folder>/input
-    In my case, I have solution checked out at location, c:/projects/Catalogue, hence my input folder location is
+    In my case, I have solution checked out at location, c:/projects/Catalogue,
+    hence my input folder location is
     $ c:/projects/Catalogue/input
  ```
  - After inputting the input folder, simple press enter and it will start processing.
@@ -85,3 +86,7 @@ Location of input folder shipped with this solution is
  - At the end of processing, you can notice that there is a informational log, printting the location of output folder where the output csv 
  file called **'result_output.csv'** will be generated.
  - Simple navigate to that folder and open **'result_output.csv'** to verify the output.
+ - Below is the snapshot with highlighted areas to give an idea of what a console window will look like after processing.
+![catalogue](https://user-images.githubusercontent.com/17959609/107311518-9af78d00-6ae2-11eb-892a-d4606680b53e.png)
+
+**Enjoy, Catalogue App !!!**
